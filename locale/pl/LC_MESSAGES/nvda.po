@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pinfo\n"
+"POT-Creation-Date: 2021-01-11 13:58+0100\n"
+"PO-Revision-Date: 2021-01-11 14:25+0100\n"
+"Last-Translator: Dawid Pieper <dawidpieper@o2.pl>\n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ../../../globalPlugins\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: pinfo.py\n"
+
+#: pinfo.py:54
+msgid ""
+"Press once to read current process path, RAM and CPU utilization, press "
+"twice to copy process path to clipboard."
+msgstr ""
+"Wciśnij raz, aby odczytać ścieżkę i użycie zasobów przez bieżący proces, "
+"wciśnij dwukrotnie, by skopiować lokalizację procesu do schowka."
+
+#: pinfo.py:69
+msgid "Process path copied to clipboard."
+msgstr "Ścieżka procesu skopiowana do schowka."
+
+#: pinfo.py:78
+msgid "Cpu usage"
+msgstr "Użycie procesora"
+
+#: pinfo.py:81
+msgid "Memory usage"
+msgstr "Użycie pamięci"
+
+#: pinfo.py:82
+msgid "Peak memory usage"
+msgstr "Szczytowe użycie pamięci"
